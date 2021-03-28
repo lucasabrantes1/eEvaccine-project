@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;recursosReact-1&apos; to &apos;evaccine-project&apos;&#x0D;&#x0A;- Original element: &apos;recursosReact-1&apos;&#x0D;&#x0A;- Renamed element: &apos;recursosReact-1&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;recursosReact-1&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=recursosReact-1" name="evaccine-project" references="true" stamp="1616518914040" version="1.0"/>
+</session>

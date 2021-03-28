@@ -1,0 +1,8 @@
+package br.com.lucasabrantes.fullstackweek.resources;
+
+
+@RestController
+@RequestMapping
+public class GruposPrioridadesResource {
+
+}
