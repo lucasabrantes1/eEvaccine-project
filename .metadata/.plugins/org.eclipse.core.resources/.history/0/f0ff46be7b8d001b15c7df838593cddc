@@ -37,7 +37,7 @@ public class PessoaResource {
 	@PutMapping("/{codigo}")
 	public Pessoa atualizar(@PathVariable("codigo")Long codigo,
 			@RequestBody Pessoa pessoa) {
-		return pessoaRepository.findById(codigo).map(
+		return pessoaRepository.findById(codigo).ma(
 				record -> {
 					record.setCpf(pessoa.getCpf());
 					record.setDataNascimento(pessoa.getDataNascimento());
